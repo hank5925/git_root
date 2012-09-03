@@ -39,7 +39,7 @@ Numbered List
 
 1. Follow the style of the existing code.
 2. One commit should do exactly one thing.
-3. **Huh???** The files within...
+3. **Huh???** *The files* _within_
 TextMate is a trademark of Allan Odgaard.
 
 Alias:
