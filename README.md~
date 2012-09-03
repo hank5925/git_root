@@ -18,21 +18,21 @@ Boxes
 
 To build the source the following must first be installed on your system:
 
- * [ninja]()         — build system similar to `make`
- * [ragel][]         — state machine compiler
+ * [ERROR: you didn't put link on the 2nd box][]         — comments
+ * [This is right](http://google.com)   __
+ * [ninja][]    _\[ninja\]\[\]_
+ * [Same link as above][ninja]
 
-To install using [MacPorts][] run:
-
-In practice `hg` ([mercurial][]) is only required for the SCM library’s tests so you can skip this dependency if you don’t mind a failing test.
+To install using [MacPorts][google] run:
 
 ### Title 3: Numbered List
 
 1. Follow the style of the existing code.
 2. One commit should do exactly one thing.
-3. **Bold**   *Italic*   _Also Italic_   _**Bold Italic**_
-TextMate is a trademark of Allan Odgaard.
+3. **Bold**   *StarItalic*   _UnderlineItalic_   **_Bold Italic_**
+Say it!!
 
 ## Alias: below are links will not be shown
 
-[boost]:         http://www.boost.org/
-[ninja]:         http://martine.github.com/ninja/
+[google]:       http://google.com
+[ninja]:        http://martine.github.com/ninja/
