@@ -19,7 +19,7 @@ Boxes
 To build the source the following must first be installed on your system:
 
  * [ERROR: you didn't put link on the 2nd box][]         — comments
- * [This is right](http://google.com)   __
+ * [This is right](http://google.com)
  * [ninja][]    _\[ninja\]\[\]_
  * [Same link as above][ninja]
 
@@ -30,7 +30,8 @@ To install using [MacPorts][google] run:
 1. Follow the style of the existing code.
 2. One commit should do exactly one thing.
 3. **Bold**   *StarItalic*   _UnderlineItalic_   **_Bold Italic_**
-Say it!!
+
+Say it out loud!!
 
 ## Alias: below are links will not be shown
 
