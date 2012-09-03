@@ -2,7 +2,7 @@
 
 Just for myself testing.
 
-![test](https://raw.github.com/textmate/textmate/gh-pages/images/screenshot.png)
+![test](https://www.google.co.jp/intl/zh-TW_ALL/images/logos/images_logo_lg.gif)
 
 # Title 1
 
